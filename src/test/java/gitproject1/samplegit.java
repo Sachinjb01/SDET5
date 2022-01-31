@@ -6,6 +6,9 @@ public class samplegit {
 		// TODO Auto-generated method stub
 		
 		System.out.println("this is mine first commit");
+		
+		
+		System.out.println("this mine 2nd commit");
 
 	}
 
